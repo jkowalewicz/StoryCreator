@@ -1,0 +1,11 @@
+# QMake created
+Makefile
+Makefile.Debug
+Makefile.Release
+
+# Output
+debug/
+release/
+*.exe
+*.o
+*.log
