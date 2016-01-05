@@ -1,0 +1,9 @@
+You'll need Qt 4.8.6 and MinGW on Windows.
+Clone the repo or download the ZIP, then start a terminal and cd into the directory:
+
+	$ qmake
+	$ make or mingw32-make
+
+On Windows, the output is generated into a debug/ folder on *nix you should directly run it with ./StoryCreator
+
+~ J
